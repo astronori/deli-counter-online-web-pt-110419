@@ -1,5 +1,5 @@
 katz_deli = ["Ada", "Grace", "Rivki"]
-def line(array) # this was the one I figured out
+def line(array)
   if array.length >= 1
     nuarray = []
     counter = 1 
@@ -14,7 +14,7 @@ def line(array) # this was the one I figured out
 end
 line(katz_deli)
 
-def line_simple(array) # this one follows the same mechanics as learn.co
+def line_simple(array)
   current_line = "The simple line is currently:"
   array.each.with_index(1) do |value, indexemus|  
   end 
