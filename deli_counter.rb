@@ -1,1 +1,1 @@
-# Write your code here.
+katz_deli = ["Moshe", "Fayge", "Rivki"]
